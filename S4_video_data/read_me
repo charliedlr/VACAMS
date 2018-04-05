@@ -1,0 +1,33 @@
+allvideos.csv READ ME file 
+C. A. de la Rosa -- April 2018
+
+This CSV file contains video and GPS data from CowPro units.  
+
+Notes:
+
+Column 11 behaviors are:
+	DR - drinking
+	FE - feeding
+	RE - resting
+	RU - ruminating
+	TR - traveling
+	OO - other (social behaviors, interactions with humans)
+	CC - camera covered (the image is obscured, no data)
+
+Column 12: all non-woody vegetation cows consumed in videos occurs as APGCH (annual and perennial ground-covering herbs)
+
+Column 13: plant growth habits are:
+	D - dead (leaf litter, dried vegetation, seed pods)
+	G - graminoid
+	H - herbaceous
+	L - liana (scandent woody vine)
+	T - tree (also includes shrubs, lianas, cacti)
+
+Column 14: Number of other cows occuring in video
+
+Column 15: notes on video
+
+
+	
+	
+

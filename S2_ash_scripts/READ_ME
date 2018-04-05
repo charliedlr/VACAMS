@@ -1,0 +1,24 @@
+20 July 2015 
+GoPro script notes
+
+Text documents in Unix (LF) format encoded Unicode UTF-8 saved as <autoexec.ash> work to hack GoPros.
+
+When copied and pasted onto a GoPro model HERO3 Black camera’s SD card, scripts in this folder interrupt the startup protocol and execute a function.  
+
+To modify scripts, use a simple text editor such as Sublime Text or Text Wrangler.
+
+If script doesn't work:
+	check syntax
+	upload to http://www.cam-do.com/SOBM/ and check for CR characters
+	delete pseudocode
+	build script incrementally from working lines of code
+	
+Reference websites:
+https://github.com/KonradIT/autoexechack
+http://diytripods.com/gopro-hack-autoexec/
+http://www.cam-do.com/SOBM/
+https://gist.github.com/KonradIT/ce55b04ab4ad10592ebf/#file-autoexechack-md
+
+Long exposure photos:
+http://chernowii.com/gopro-longexp
+https://github.com/KonradIT/autoexechack/tree/GoPro/LongExpTimeLapse

@@ -1,0 +1,13 @@
+######################################################
+#  Power button, wait 7 seconds, turn off camera     #
+#  Takes 10 photos in 1sec time lapse mode           #
+#  Edit scripts in Text Wrangler                     #
+#           CAD 05.Feb.2015                          #
+######################################################
+
+sleep 5
+t app button shutter PR
+sleep 7
+t app button power P
+sleep 3
+t app button power R
