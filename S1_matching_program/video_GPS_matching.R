@@ -47,5 +47,8 @@ videos = data.frame(videos, gps.info) # attach gps info to the videos master fil
 ## Write a new file (change name each time)
 write.csv(videos, file = '~/File/Source/video_with_GPS_data.csv')
 
+## Split out only videos with useable GPS points, where the difference between the video and GPS time stamp is less than or equal to 45 seconds
+ vid.for.map = videos[which(abs(videos$time.dif.secs) <= 45),] 
+
 ###########################################################
 
