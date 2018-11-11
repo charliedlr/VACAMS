@@ -5,7 +5,7 @@ The contents of this GitHub repository are the Supplementary Materials for de la
 
 The supplemental materials consist of:  
 
-SM 1. Video and GPS matching program: R script. https://github.com/charliedlr/CowPro/tree/master/S1_matching_program/video_GPS_matching.R 
+SM 1. Video and GPS matching program: R script. https://github.com/charliedlr/VACAMS/tree/master/S1_matching_program
 SM 2. GoPro® HERO3 Black time-lapse protocol: Ambarella Shell (ash) scripts (11).  
 https://github.com/charliedlr/CowPro/tree/master/S2_ash_scripts  
 SM 3. Cow GPS track logs: Tab separated value files (9). https://github.com/charliedlr/CowPro/tree/master/S3_GPS_track_logs  
