@@ -12,3 +12,4 @@ SM 3. Cow GPS track logs: Tab separated value files (9). https://github.com/char
 SM 4. VACAMS video data: CSV file (1). https://github.com/charliedlr/CowPro/tree/master/S4_video_data  
 SM 5. Sample VACAMS videos: m4v files (13) https://vimeo.com/charliedlr  
 
+[![DOI](https://zenodo.org/badge/128265435.svg)](https://zenodo.org/badge/latestdoi/128265435)
